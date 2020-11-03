@@ -23,6 +23,8 @@
 
 ### 📈 Language statistics:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurnakovMaksim&langs_count=10)](https://github.com/KurnakovMaksim/github-readme-stats)
+
 ---
 
 ### ⭐ GitHub statistics:
