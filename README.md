@@ -3,6 +3,7 @@
 
 ## 🚶🏻 About me:
 
+### _I'm a beginner web application developer._
 
 ---
 
