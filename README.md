@@ -54,3 +54,4 @@
 
 ### 📫 How to reach me:
  
+  [![VK](https://img.shields.io/badge/-Vk-282828?style=for-the-badge&logo=vk)](https://vk.com/makskurnakov2003)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/maksim-kurnakov-130bbb1b9/) [![CodeWars](https://img.shields.io/badge/-CodeWars-282828?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/MaksimKurnakovv) [![Habr](https://img.shields.io/badge/-Habr-282828?style=for-the-badge&logo=habr&logoColor=7aa1bd)](https://habr.com/ru/users/maksimkurnakov/)
