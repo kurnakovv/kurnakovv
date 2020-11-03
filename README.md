@@ -29,6 +29,8 @@
 
 ### ⭐ GitHub statistics:
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KurnakovMaksim&show_icons=true&theme=gradient)
+
 ---
 
 ### 📚 Books:
