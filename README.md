@@ -48,7 +48,7 @@
 
 | Name Book | Author | Img | 
 | ------------- |:-------------:| :--: |
-| Грокаем алгоритмы | Адитья Бхаргава | <img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="A book complete code" width="100" height="150" />  |
+| Совершенный код | Стив Макконнелл | <img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="A book complete code" width="100" height="150" />  |
 
 ---
 
