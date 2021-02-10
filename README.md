@@ -39,16 +39,16 @@
 
 | Name Book | Author | Img | 
 | ------------- |:-------------:| :--: |
-| Грокаем алгоритмы | Адитья Бхаргава | <img src="https://img1.wbstatic.net/big/new/5890000/5890117-1.jpg" title="A book Grokaem Algoritmi" width="100" height="150" />  |
-| C# 4.0. Полное руководство | Герберт Шилдт | <img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="A book CSharp complete guide" width="100" height="150" />  |
-| C# для чайников | Мюллер Джон Поль, Семпф Билл | <img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="A book CSharap for Dummies " width="100" height="150" />  |
+| Grokking Algorithms | Aditya Bhargava | <img src="https://img1.wbstatic.net/big/new/5890000/5890117-1.jpg" title="A book Grokaem Algoritmi" width="100"   />  |
+| C# 4.0. The Complete Reference | Herbert Schildt | <img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="A book CSharp complete guide" width="100"   />  |
+| C # for dummies | John Mueller, Bill Sempf | <img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="A book CSharap for Dummies " width="100"  />  |
 
 
 ### I am reading:
 
 | Name Book | Author | Img | 
 | ------------- |:-------------:| :--: |
-| Совершенный код | Стив Макконнелл | <img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="A book complete code" width="100" height="150" />  |
+| Code complete | Steve McConnell | <img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="A book complete code" width="100" />  |
 
 ---
 
