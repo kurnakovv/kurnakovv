@@ -8,16 +8,69 @@
 ---
 
 ## 🖥 Hard skills:
-- Backend:
-![CSharp](https://img.shields.io/badge/-CSharp-282828?style=for-the-badge&logo=C-Sharp&logoColor=8b00ff) ![.NetFramework](https://img.shields.io/badge/-.Net_framework-282828?style=for-the-badge&logo=.net) ![.NetCore](https://img.shields.io/badge/-.Net_Core-282828?style=for-the-badge&logo=.net) ![MS Sql Server](https://img.shields.io/badge/-Ms_Sql_Server-282828?style=for-the-badge&logo=Microsoft-sql-server) ![AspNet](https://img.shields.io/badge/-Asp.Net_(core)-282828?style=for-the-badge)
+<div>
+	<h4>Backend</h4>
+	<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+		<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/.NET_Framework">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/.NET_Core">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/SQL">
+		<img src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">
+		<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/ASP.NET">
+		<img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/ASP.NET_Core">
+		<img src="https://www.deltax.com/wp-content/uploads/2018/09/asp-net-core.jpg" width="50" height="50"/>
+	</a>
+</div>
 
-- Frontend:
-![JavaScript](https://img.shields.io/badge/-Javascript-282828?style=for-the-badge&logo=javascript) ![JavaScript](https://img.shields.io/badge/-Html-282828?style=for-the-badge&logo=html5) ![Css](https://img.shields.io/badge/-Css-282828?style=for-the-badge&logo=css3&logoColor=blue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282828?style=for-the-badge&logo=bootstrap&logoColor=7952b3) ![Ajax](https://img.shields.io/badge/-ajax-282828?style=for-the-badge&logo=ajax) 
+<br>
 
-- Tools:
-![VisualStudio](https://img.shields.io/badge/-Visual_Studio-282828?style=for-the-badge&logo=visual-studio&logoColor=8b00ff) ![Microsoft Sql server management studio](https://img.shields.io/badge/-MS_Sql_Server_Studio-282828?style=for-the-badge)  ![Photoshop](https://img.shields.io/badge/-Photoshop-282828?style=for-the-badge&logo=adobe-photoshop) ![PowerShell](https://img.shields.io/badge/-PowerShell-282828?style=for-the-badge&logo=PowerShell)
-- Services
-![Git](https://img.shields.io/badge/-Git-282828?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-282828?style=for-the-badge&logo=GitHub) 
+<div>
+	<h4>Tools</h4>
+	<a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/PowerShell">
+		<img src="http://static1.squarespace.com/static/5b747daa9f877063095a3038/5b748b6688251bd7b1511777/5c41b0728985838c364cacd1/1547811805766/powershell_colour.png?format=1500w" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/Git">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/781px-Adobe_Photoshop_CS6_icon.svg.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/Sublime_Text">
+		<img src="https://i.imgur.com/AGmyyOX.png" width="50" height="50"/>
+	</a>
+</div>
+	
+<br>
+
+<div>
+	<h4>Frontend</h4>
+	<a href="https://en.wikipedia.org/wiki/HTML">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/CSS">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/JavaScript">
+		<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="50" height="50"/>
+	</a>
+	<a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" width="50" height="50"/>
+	</a>
+</div>
 
 ---
 
