@@ -86,18 +86,27 @@
 
 ### I have read: 
 
-| Name Book | Author | Img | 
-| ------------- |:-------------:| :--: |
-| Grokking Algorithms | Aditya Bhargava | <img src="https://img1.wbstatic.net/big/new/5890000/5890117-1.jpg" title="A book Grokaem Algoritmi" width="100"   />  |
-| C# 4.0. The Complete Reference | Herbert Schildt | <img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="A book CSharp complete guide" width="100"   />  |
-| C # for dummies | John Mueller, Bill Sempf | <img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="A book CSharap for Dummies " width="100"  />  |
+<div>
+	<a href="#GrokkingAlgorithms">
+		<img src="https://img1.wbstatic.net/big/new/5890000/5890117-1.jpg" title="Grokking algorithms" width="100" />
+	</a>
+	<a href="#CS_4_0_TheCompleteReference">
+		<img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="CSharp complete reference" width="100" />
+	</a>
+	<a href="#CS_ForDummies">
+		<img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="CSharap for Dummies " width="100" />
+	</a>
+</div>
 
+<br>
 
 ### I am reading:
 
-| Name Book | Author | Img | 
-| ------------- |:-------------:| :--: |
-| Code complete | Steve McConnell | <img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="A book complete code" width="100" />  |
+<div>
+ <a href="#CodeComplete" >
+		<img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="Code complete" width="100" /> 
+ </a>
+</div>
 
 ---
 
