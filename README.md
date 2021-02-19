@@ -81,7 +81,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KurnakovMaksim&show_icons=true&theme=chartreuse-dark" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurnakovMaksim&langs_count=10&theme=chartreuse-dark" /> <br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=KurnakovMaksim&theme=flat&no-frame=true&margin-w=30" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=KurnakovMaksim&theme=juicyfresh&no-frame=true&margin-w=30" />
  
 ---
 
