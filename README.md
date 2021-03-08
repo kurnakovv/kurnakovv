@@ -73,6 +73,9 @@
  <a href="https://en.wikipedia.org/wiki/Sublime_Text">
   <img src="https://i.imgur.com/AGmyyOX.png" width="50" height="50"/>
  </a>
+ <a href="https://www.postman.com/company/about-postman">
+  <img src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" width="50" height="50"/>
+ </a>
 </div>
 
 ---
