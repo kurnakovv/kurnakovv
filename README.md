@@ -100,6 +100,12 @@
 	<a href="#CS_ForDummies">
 		<img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="CSharap for Dummies " width="100" />
 	</a>
+	<a href="#CodeComplete" >
+		<img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="Code complete" width="100" /> 
+	</a>
+	<a href="#ProGit" >
+		<img src="https://git-scm.com/images/progit2.png" title="Pro Git" width="100" /> 
+	</a>
 </div>
 
 <br>
@@ -107,12 +113,9 @@
 ### I am reading:
 
 <div>
- <a href="#CodeComplete" >
-  <img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="Code complete" width="100" /> 
- </a>
- <a href="#ProGit" >
-  <img src="https://git-scm.com/images/progit2.png" title="Pro Git" width="100" /> 
- </a>
+	<a href="#CleanCode" >
+		<img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="100" /> 
+	</a>
 </div>
 
 ---
