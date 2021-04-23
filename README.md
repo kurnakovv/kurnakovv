@@ -12,7 +12,7 @@
 <div>
  <h4>Backend</h4>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50"/>
+   <img src="https://byfax.biz/img/byfax/c-img.svg" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Framework">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" width="50" height="50"/>
@@ -115,6 +115,9 @@
 <div>
 	<a href="#CleanCode" >
 		<img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="100" /> 
+	</a>
+	<a href="#AspNetCoreAndAzure" >
+		<img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/media/index/web-application-guide-cover-image.png" title="Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure" width="100" /> 
 	</a>
 </div>
 
