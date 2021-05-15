@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25" /></h1>
 </div>
 
 ## 🚶🏻 About me:
