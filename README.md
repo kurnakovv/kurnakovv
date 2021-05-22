@@ -35,7 +35,7 @@
   <a href="https://en.wikipedia.org/wiki/Web_API">
    <img src="https://www.videosharp.info/data/img/shop/webapi.png" width="50" height="50"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Web_API">
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)">
    <img src="https://miro.medium.com/max/336/1*glD7bNJG3SlO0_xNmSGPcQ.png" width="50" height="50"/>
   </a>
 </div>
@@ -55,6 +55,9 @@
  </a>
  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" width="50" height="50"/>
+ </a>
+ <a href="https://en.wikipedia.org/wiki/Blazor">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="50" height="50"/>
  </a>
 </div>
 
