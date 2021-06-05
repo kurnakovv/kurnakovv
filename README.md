@@ -68,6 +68,9 @@
  <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" width="50" height="50"/>
  </a>
+ <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
+ </a>
  <a href="https://en.wikipedia.org/wiki/PowerShell">
   <img src="http://static1.squarespace.com/static/5b747daa9f877063095a3038/5b748b6688251bd7b1511777/5c41b0728985838c364cacd1/1547811805766/powershell_colour.png?format=1500w" width="50" height="50"/>
  </a>
@@ -115,6 +118,9 @@
 	<a href="#ProGit" >
 		<img src="https://git-scm.com/images/progit2.png" title="Pro Git" width="75" /> 
 	</a>
+	<a href="#AspNetCoreAndAzure" >
+		<img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/media/index/web-application-guide-cover-image.png" title="Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure" width="75" /> 
+	</a>
 </div>
 
 <br>
@@ -124,9 +130,6 @@
 <div>
 	<a href="#CleanCode" >
 		<img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="75" /> 
-	</a>
-	<a href="#AspNetCoreAndAzure" >
-		<img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/media/index/web-application-guide-cover-image.png" title="Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure" width="75" /> 
 	</a>
 </div>
 
