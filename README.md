@@ -21,7 +21,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/SQL">
-   <img src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" width="50" height="50"/>
+   <img src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" width="40" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">
    <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width="50" height="50"/>
