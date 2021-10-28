@@ -127,10 +127,10 @@
 
 ### 📂 My favorite projects:
 
-[![NotSocialNetwork](https://github-readme-stats.vercel.app/api/pin/?username=KurnakovMaksim&repo=NotSocialNetwork_Blazor&theme=chartreuse-dark)](https://github.com/KurnakovMaksim/NotSocialNetwork_Blazor)
+[![NotSocialNetwork](https://github-readme-stats.vercel.app/api/pin/?username=KurnakovMaksim&repo=NotSocialNetwork_Blazor&bg_color=00000000&hide_border=true&text_color=04ff00&theme=chartreuse-dark)](https://github.com/KurnakovMaksim/NotSocialNetwork_Blazor)
 
 
-[![DeviceStore](https://github-readme-stats.vercel.app/api/pin/?username=KurnakovMaksim&repo=DeviceStore-AspNetMvc-&theme=chartreuse-dark)](https://github.com/KurnakovMaksim/DeviceStore-AspNetMvc-)
+[![DeviceStore](https://github-readme-stats.vercel.app/api/pin/?username=KurnakovMaksim&repo=DeviceStore-AspNetMvc-&bg_color=00000000&hide_border=true&text_color=04ff00&theme=chartreuse-dark)](https://github.com/KurnakovMaksim/DeviceStore-AspNetMvc-)
 ---
 
 ### 📫 How to reach me:
