@@ -137,4 +137,4 @@
  
 [![VK](https://img.shields.io/badge/-Vk-282828?style=for-the-badge&logo=vk)](https://vk.com/makskurnakov2003)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/maksimkurnakov/) [![CodeWars](https://img.shields.io/badge/-CodeWars-282828?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/MaksimKurnakovv) [![Habr](https://img.shields.io/badge/-Habr-282828?style=for-the-badge&logo=habr&logoColor=7aa1bd)](https://habr.com/ru/users/maksimkurnakov/) [![Instagram](https://img.shields.io/badge/-instagram-282828?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/maksimkurnakovv/) [![Telegram](https://img.shields.io/badge/-telegram-282828?style=for-the-badge&logo=telegram&logoColor=blue)](https://telegram.me/kurnakovv)
 
-![The end](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
