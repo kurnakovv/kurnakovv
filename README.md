@@ -131,6 +131,7 @@
 
 
 [![DeviceStore](https://github-readme-stats.vercel.app/api/pin/?username=KurnakovMaksim&repo=DeviceStore-AspNetMvc-&bg_color=00000000&hide_border=true&text_color=04ff00&theme=chartreuse-dark)](https://github.com/KurnakovMaksim/DeviceStore-AspNetMvc-)
+
 ---
 
 ### 📫 How to reach me:
