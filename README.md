@@ -4,7 +4,7 @@
 
 ## 🚶🏻 About me:
 
-### _I'm a beginner web application developer._
+### _I'm a junior full-stack developer, work in company tiburon-research <a href="https://tiburon-research.ru/"><img src="https://avatars.githubusercontent.com/u/8382797?s=200&v=4" width="20px" heigth="20px"/></a>_
 
 ---
 
