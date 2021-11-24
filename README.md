@@ -2,7 +2,7 @@
  <h1><img src="https://media1.tenor.com/images/c241fc4f18001b599a70f4474b5eaff9/tenor.gif?itemid=10528543" width="25" height="25" /> Hello, Friend <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25" /></h1>
 </div>
 
-## 🚶🏻 About me:
+## 🐱‍💻 About me:
 
 ### _I'm a junior full-stack developer, work in company tiburon-research <a href="https://tiburon-research.ru/"><img src="https://avatars.githubusercontent.com/u/8382797?s=200&v=4" width="20px" heigth="20px"/></a>_
 
