@@ -76,6 +76,9 @@
  <a href="https://en.wikipedia.org/wiki/PowerShell">
   <img src="http://static1.squarespace.com/static/5b747daa9f877063095a3038/5b748b6688251bd7b1511777/5c41b0728985838c364cacd1/1547811805766/powershell_colour.png?format=1500w" width="50" height="50"/>
  </a>
+ <a href="https://www.vim.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width="50" height="50"/>
+ </a>
  <a href="https://en.wikipedia.org/wiki/Git">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="50"/>
  </a>
