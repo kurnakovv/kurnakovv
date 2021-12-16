@@ -127,15 +127,6 @@
 
 ---
 
-### 📂 My favorite projects:
-
-[![NotSocialNetwork](https://github-readme-stats.vercel.app/api/pin/?username=KurnakovMaksim&repo=NotSocialNetwork_Blazor&bg_color=00000000&hide_border=true&text_color=04ff00&theme=chartreuse-dark)](https://github.com/KurnakovMaksim/NotSocialNetwork_Blazor)
-
-
-[![DeviceStore](https://github-readme-stats.vercel.app/api/pin/?username=KurnakovMaksim&repo=DeviceStore-AspNetMvc-&bg_color=00000000&hide_border=true&text_color=04ff00&theme=chartreuse-dark)](https://github.com/KurnakovMaksim/DeviceStore-AspNetMvc-)
-
----
-
 ### 📫 How to reach me:
  
 [![VK](https://img.shields.io/badge/-Vk-282828?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/makskurnakov2003)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/maksimkurnakov/) [![CodeWars](https://img.shields.io/badge/-CodeWars-282828?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/MaksimKurnakovv) [![Habr](https://img.shields.io/badge/-Habr-282828?style=for-the-badge&logo=habr&logoColor=7aa1bd)](https://habr.com/ru/users/maksimkurnakov/) [![Instagram](https://img.shields.io/badge/-instagram-282828?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/maksimkurnakovv/) [![Telegram](https://img.shields.io/badge/-telegram-282828?style=for-the-badge&logo=telegram&logoColor=blue)](https://telegram.me/kurnakovv)
