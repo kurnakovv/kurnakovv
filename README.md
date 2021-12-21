@@ -35,7 +35,7 @@
    <img src="https://www.videosharp.info/data/img/shop/webapi.png" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Docker_(software)">
-   <img src="https://miro.medium.com/max/336/1*glD7bNJG3SlO0_xNmSGPcQ.png" width="50" height="50"/>
+   <img src="https://isd-soft.com/wp-content/uploads/2016/12/docker_logo.png" width="50" height="50"/>
   </a>
 </div>
 
