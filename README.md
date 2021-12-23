@@ -115,6 +115,7 @@
 	<code><a href="#ProGit" ><img src="https://git-scm.com/images/progit2.png" title="Pro Git" width="75" /></a></code>
 	<code><a href="#AspNetCoreAndAzure" ><img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/media/index/web-application-guide-cover-image.png" title="Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure" width="75" /></a></code>
 	<code><a href="#CleanCode" ><img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="75" /></a></code>
+        <code><a href="#TheCleanCoder" ><img src="https://images-na.ssl-images-amazon.com/images/I/51lbNIP1YLL._SX381_BO1,204,203,200_.jpg" title="The clean coder" width="75" /></a></code>
 </div>
 
 <br>
@@ -122,7 +123,7 @@
 ### I am reading:
 
 <div>
-	<code><a href="#TheCleanCoder" ><img src="https://images-na.ssl-images-amazon.com/images/I/51lbNIP1YLL._SX381_BO1,204,203,200_.jpg" title="The clean coder" width="75" /></a></code>
+	
 </div>
 
 ---
