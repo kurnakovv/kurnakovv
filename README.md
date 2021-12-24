@@ -123,7 +123,7 @@
 ### I am reading:
 
 <div>
-	
+	<code><a href="#DependencyInjectionInDotNet" ><img src="https://images-na.ssl-images-amazon.com/images/I/71eC9gxlJAL.jpg" title="Dependency injection in .NET" width="75" /></a></code>
 </div>
 
 ---
