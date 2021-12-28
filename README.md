@@ -108,14 +108,14 @@
 ### I have read: 
 
 <div>
-	<code><a href="#GrokkingAlgorithms"><img src="https://img-gorod.ru/25/763/2576389_detail.jpg" title="Grokking algorithms" width="75" /></a></code>
-	<code><a href="#CS_4_0_TheCompleteReference"><img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="CSharp complete reference" width="75" /></a></code>
-	<code><a href="#CS_ForDummies"><img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="CSharap for Dummies " width="75" /></a></code>
-	<code><a href="#CodeComplete" ><img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="Code complete" width="75" /></a></code>
-	<code><a href="#ProGit" ><img src="https://git-scm.com/images/progit2.png" title="Pro Git" width="75" /></a></code>
-	<code><a href="#AspNetCoreAndAzure" ><img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/media/index/web-application-guide-cover-image.png" title="Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure" width="75" /></a></code>
-	<code><a href="#CleanCode" ><img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="75" /></a></code>
-        <code><a href="#TheCleanCoder" ><img src="https://images-na.ssl-images-amazon.com/images/I/51lbNIP1YLL._SX381_BO1,204,203,200_.jpg" title="The clean coder" width="75" /></a></code>
+	<code><a href="#GrokkingAlgorithms"><img src="https://img-gorod.ru/25/763/2576389_detail.jpg" title="Grokking algorithms" width="65" /></a></code>
+	<code><a href="#CS_4_0_TheCompleteReference"><img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="CSharp complete reference" width="65" /></a></code>
+	<code><a href="#CS_ForDummies"><img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="CSharap for Dummies " width="65" /></a></code>
+	<code><a href="#CodeComplete" ><img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="Code complete" width="65" /></a></code>
+	<code><a href="#ProGit" ><img src="https://git-scm.com/images/progit2.png" title="Pro Git" width="65" /></a></code>
+	<code><a href="#AspNetCoreAndAzure" ><img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/media/index/web-application-guide-cover-image.png" title="Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure" width="65" /></a></code>
+	<code><a href="#CleanCode" ><img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="65" /></a></code>
+        <code><a href="#TheCleanCoder" ><img src="https://images-na.ssl-images-amazon.com/images/I/51lbNIP1YLL._SX381_BO1,204,203,200_.jpg" title="The clean coder" width="65" /></a></code>
 </div>
 
 <br>
@@ -123,7 +123,7 @@
 ### I am reading:
 
 <div>
-	<code><a href="#DependencyInjectionInDotNet" ><img src="https://images-na.ssl-images-amazon.com/images/I/71eC9gxlJAL.jpg" title="Dependency injection in .NET" width="75" /></a></code>
+	<code><a href="#DependencyInjectionInDotNet" ><img src="https://images-na.ssl-images-amazon.com/images/I/71eC9gxlJAL.jpg" title="Dependency injection in .NET" width="65" /></a></code>
 </div>
 
 ---
