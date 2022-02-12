@@ -123,6 +123,7 @@
 ### I am reading:
 
 <div>
+	<code><a href="#ArchitectureForContainerizedDotNetApplications" ><img src="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/media/cover-large.png" title=".NET Microservices: Architecture for Containerized .NET Applications" width="65" /></a></code>
 	<code><a href="#DependencyInjectionInDotNet" ><img src="https://images-na.ssl-images-amazon.com/images/I/71eC9gxlJAL.jpg" title="Dependency injection in .NET" width="65" /></a></code>
 </div>
 
