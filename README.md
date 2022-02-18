@@ -37,6 +37,9 @@
   <a href="https://en.wikipedia.org/wiki/Docker_(software)">
    <img src="https://isd-soft.com/wp-content/uploads/2016/12/docker_logo.png" width="50" height="50"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50"/>
+  </a>
 </div>
 
 <br>
