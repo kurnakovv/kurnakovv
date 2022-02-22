@@ -92,7 +92,7 @@
   <img src="https://i.imgur.com/AGmyyOX.png" width="50" height="50"/>
  </a>
  <a href="https://www.postman.com/company/about-postman">
-  <img src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" width="50" height="50"/>
+  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50"/>
  </a>
 </div>
 
