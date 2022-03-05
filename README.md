@@ -67,11 +67,8 @@
 
 <div>
  <h4>Tools</h4>
- <a href="https://visualstudio.microsoft.com/vs/preview/">
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/06/VisualStudio.512x512.png" width="50" height="50"/>
- </a>
- <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" width="50" height="50"/>
+ <a href="https://visualstudio.microsoft.com/vs/">
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
