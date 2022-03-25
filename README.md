@@ -55,6 +55,9 @@
  <a href="https://en.wikipedia.org/wiki/JavaScript">
   <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="50" height="50"/>
  </a>
+ <a href="https://en.wikipedia.org/wiki/TypeScript">
+  <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="50" height="50"/>
+ </a>
  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" width="50" height="50"/>
  </a>
