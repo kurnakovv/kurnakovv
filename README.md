@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/KurnakovMaksim)
+
 <div align="center">
  <h3><img src="https://media1.tenor.com/images/c241fc4f18001b599a70f4474b5eaff9/tenor.gif?itemid=10528543" width="25" height="25" /> Hello, Friend <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25" /></h3>
 </div>
