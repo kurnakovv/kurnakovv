@@ -16,7 +16,7 @@
    <img src="https://byfax.biz/img/byfax/c-img.svg" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Framework">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" width="50" height="50"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Core">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="50" height="50"/>
