@@ -101,7 +101,7 @@
  </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📈 Statistics:
 
@@ -111,7 +111,7 @@
  
  [![CodeWars](https://www.codewars.com/users/MaksimKurnakovv/badges/micro)](https://www.codewars.com/users/MaksimKurnakovv)
  
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📚 Books:
 
@@ -137,7 +137,7 @@
 	<code><a href="#DependencyInjectionInDotNet" ><img src="https://images-na.ssl-images-amazon.com/images/I/71eC9gxlJAL.jpg" title="Dependency injection in .NET" width="65" /></a></code>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📫 How to reach me:
  
