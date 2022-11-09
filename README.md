@@ -6,12 +6,14 @@
  <h3><img src="https://media1.tenor.com/images/c241fc4f18001b599a70f4474b5eaff9/tenor.gif?itemid=10528543" width="25" height="25" /> Hello, Friend <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25" /></h3>
 </div>
 
-## 🐱‍💻 About me:
+### 🐱‍💻 About me:
 
 ### _I'm a junior full-stack developer, work in company tiburon-research <a href="https://tiburon-research.ru/"><img src="https://avatars.githubusercontent.com/u/8382797?s=200&v=4" width="20px" heigth="20px"/></a>_
-<br/>
 
-## 🖥 Hard skills:
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+### 🖥 Hard skills:
 <div>
  <h4>Backend</h4>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
