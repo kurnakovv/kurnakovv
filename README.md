@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=170&section=header"/>
+
 [![Resume](https://img.shields.io/badge/-Resume-style=flat)](https://kurnakovmaksim.github.io/Resume/) ![Profile views](https://gpvc.arturio.dev/KurnakovMaksim)
 
 <div align="center">
@@ -143,4 +145,4 @@
  
 [![VK](https://img.shields.io/badge/-Vk-282828?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/makskurnakov2003)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/maksimkurnakov/) [![Telegram](https://img.shields.io/badge/-telegram-282828?style=for-the-badge&logo=telegram&logoColor=blue)](https://telegram.me/kurnakovv)
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=158&section=footer"/>
