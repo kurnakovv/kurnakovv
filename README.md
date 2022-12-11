@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=170&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=170&section=header"/>
 
-[![Resume](https://img.shields.io/badge/-Resume-style=flat)](https://kurnakovmaksim.github.io/Resume/) ![Profile views](https://gpvc.arturio.dev/KurnakovMaksim)
+[![Resume](https://img.shields.io/static/v1?label=&message=Resume&color=7700FF&logo=Opsgenie)](https://kurnakovmaksim.github.io/Resume/) ![Profile views](https://komarev.com/ghpvc/?username=KurnakovMaksim&color=blueviolet)
 
 <div align="center">
  <h3><img src="https://media1.tenor.com/images/c241fc4f18001b599a70f4474b5eaff9/tenor.gif?itemid=10528543" width="25" height="25" /> Hello, Friend <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25" /></h3>
@@ -109,8 +109,8 @@
 
 ### 📈 Statistics:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KurnakovMaksim&show_icons=true&bg_color=00000000&hide_border=true&text_color=04ff00&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurnakovMaksim&langs_count=10&bg_color=00000000&hide_border=true&text_color=04ff00&count_private=true&include_all_commits=true&theme=chartreuse-dark" /> <br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KurnakovMaksim&show_icons=true&bg_color=00000000&hide_border=true&text_color=#7700FF&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurnakovMaksim&langs_count=10&bg_color=00000000&hide_border=true&text_color=#7700FF&count_private=true&include_all_commits=true&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=KurnakovMaksim&theme=juicyfresh&no-frame=true&margin-w=30" style="width: 100%;" />
  
  [![CodeWars](https://www.codewars.com/users/MaksimKurnakovv/badges/micro)](https://www.codewars.com/users/MaksimKurnakovv)
@@ -152,4 +152,4 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="50" height="50"/>
   </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=158&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=158&section=footer"/>
