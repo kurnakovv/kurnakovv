@@ -128,6 +128,7 @@
 	<code><a href="#CleanCode" ><img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="65" /></a></code>
         <code><a href="#TheCleanCoder" ><img src="https://images-na.ssl-images-amazon.com/images/I/51lbNIP1YLL._SX381_BO1,204,203,200_.jpg" title="The clean coder" width="65" /></a></code>
 	<code><a href="#ArchitectureForContainerizedDotNetApplications" ><img src="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/media/cover-large.png" title=".NET Microservices: Architecture for Containerized .NET Applications" width="65" /></a></code>
+	<code><a href="#DependencyInjectionInDotNet" ><img src="https://images-na.ssl-images-amazon.com/images/I/71eC9gxlJAL.jpg" title="Dependency injection in .NET" width="65" /></a></code>
 </div>
 
 <br>
@@ -135,7 +136,7 @@
 ### I am reading:
 
 <div>
-	<code><a href="#DependencyInjectionInDotNet" ><img src="https://images-na.ssl-images-amazon.com/images/I/71eC9gxlJAL.jpg" title="Dependency injection in .NET" width="65" /></a></code>
+	<code></code>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
