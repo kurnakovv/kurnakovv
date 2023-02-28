@@ -149,5 +149,8 @@
   <a href="https://telegram.me/kurnakovv">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="50" height="50"/>
   </a>
+  <a href="https://www.youtube.com/@maxmakur5627">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="68" height="47"/>
+  </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=158&section=footer"/>
