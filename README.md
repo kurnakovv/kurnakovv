@@ -17,7 +17,7 @@
 <div>
  <h4>Backend</h4>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-   <img src="https://byfax.biz/img/byfax/c-img.svg" width="50" height="50"/>
+   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Framework">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="50" height="50"/>
