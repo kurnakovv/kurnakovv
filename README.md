@@ -143,7 +143,7 @@
 
 ### 📫 How to reach me:
  
- <a href="https://vk.com/makskurnakov2003">
+ <a href="https://vk.com/kurnakovv">
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="50" height="50"/>
   </a>
   <a href="https://telegram.me/kurnakovv">
