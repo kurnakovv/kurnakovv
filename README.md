@@ -122,7 +122,7 @@
 	<code><a href="#GrokkingAlgorithms"><img src="https://img-gorod.ru/25/763/2576389_detail.jpg" title="Grokking algorithms" width="65" /></a></code>
 	<code><a href="#CS_4_0_TheCompleteReference"><img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="CSharp complete reference" width="65" /></a></code>
 	<code><a href="#CS_ForDummies"><img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="CSharap for Dummies " width="65" /></a></code>
-	<code><a href="#CodeComplete" ><img src="https://static.my-shop.ru/product/3/165/1642017.jpg" title="Code complete" width="65" /></a></code>
+	<code><a href="#CodeComplete" ><img src="https://sun9-17.userapi.com/impf/c836438/v836438285/2495a/Z-NZzaveeOw.jpg?size=438x620&quality=96&sign=17ce6f53cc9641c6633357228f1514b7&type=album" title="Code complete" width="65" /></a></code>
 	<code><a href="#ProGit" ><img src="https://git-scm.com/images/progit2.png" title="Pro Git" width="65" /></a></code>
 	<code><a href="#AspNetCoreAndAzure" ><img src="https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/media/index/web-application-guide-cover-image.png" title="Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure" width="65" /></a></code>
 	<code><a href="#CleanCode" ><img src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" title="Clean code" width="65" /></a></code>
