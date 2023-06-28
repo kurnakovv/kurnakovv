@@ -152,5 +152,8 @@
   <a href="https://youtube.com/@kurnakovv">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="68" height="47"/>
   </a>
+  <a href="https://rutube.ru/channel/31587053/">
+   <img src="https://play-lh.googleusercontent.com/z_wh9O47xTSR89Goj6_k5IA6PesoilrrspjRRZsmCQBEEAvZcWCe1bG1gFmXc-DPxok=w240-h480-rw" width="50" height="50"/>
+  </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=158&section=footer"/>
