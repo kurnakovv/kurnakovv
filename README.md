@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=170&section=header"/>
 
-[![Resume](https://img.shields.io/static/v1?label=&message=Resume&color=7700FF&logo=Opsgenie)](https://kurnakovmaksim.github.io/Resume/) ![Profile views](https://komarev.com/ghpvc/?username=KurnakovMaksim&color=blueviolet)
+[![Resume](https://img.shields.io/static/v1?label=&message=Resume&color=7700FF&logo=Opsgenie)](https://kurnakovv.github.io/Resume/) ![Profile views](https://komarev.com/ghpvc/?username=kurnakovv&color=blueviolet)
 
 <div align="center">
  <h3><img src="https://media1.tenor.com/images/c241fc4f18001b599a70f4474b5eaff9/tenor.gif?itemid=10528543" width="25" height="25" /> Hello, Friend <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25" /></h3>
