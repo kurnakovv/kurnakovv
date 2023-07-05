@@ -106,8 +106,8 @@
 
 ### 📈 Statistics:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KurnakovMaksim&show_icons=true&bg_color=00000000&hide_border=true&text_color=#7700FF&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurnakovMaksim&langs_count=10&bg_color=00000000&hide_border=true&text_color=#7700FF&count_private=true&include_all_commits=true&theme=chartreuse-dark" /> <br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kurnakovv&show_icons=true&bg_color=00000000&hide_border=true&text_color=#7700FF&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurnakovv&langs_count=10&bg_color=00000000&hide_border=true&text_color=#7700FF&count_private=true&include_all_commits=true&theme=chartreuse-dark" /> <br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&no-frame=true&margin-w=30" style="width: 100%;" />
  
  [![CodeWars](https://www.codewars.com/users/MaksimKurnakovv/badges/micro)](https://www.codewars.com/users/MaksimKurnakovv)
