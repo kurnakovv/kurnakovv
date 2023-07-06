@@ -155,5 +155,8 @@
   <a href="https://rutube.ru/channel/31587053/">
    <img src="https://play-lh.googleusercontent.com/z_wh9O47xTSR89Goj6_k5IA6PesoilrrspjRRZsmCQBEEAvZcWCe1bG1gFmXc-DPxok=w240-h480-rw" width="50" height="50"/>
   </a>
+  <a href="https://vk.com/video/@kurnakovv">
+   <img src="https://corp.vkcdn.ru/media/projects/logos/logo_vk_video.png" width="50" height="50"/>
+  </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=158&section=footer"/>
