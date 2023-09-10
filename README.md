@@ -158,5 +158,8 @@
   <a href="https://vk.com/video/@kurnakovv">
    <img src="https://corp.vkcdn.ru/media/projects/logos/logo_vk_video.png" width="50" height="50"/>
   </a>
+  <a href="https://www.nuget.org/profiles/Kurnakovv">
+   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nuget_logo_icon_170908.png" width="120"/>
+  </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=158&section=footer"/>
