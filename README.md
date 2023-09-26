@@ -8,7 +8,7 @@
 
 ### 🐱‍💻 About me:
 
-### _I'm a middle backend developer, work in company tiburon-research <a href="https://tiburon-research.ru/"><img src="https://avatars.githubusercontent.com/u/8382797?s=200&v=4" width="20px" heigth="20px"/></a>_
+I'm a middle backend developer, work in company tiburon-research <a href="https://tiburon-research.ru/"><img src="https://avatars.githubusercontent.com/u/8382797?s=200&v=4" width="20px" heigth="20px"/></a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
