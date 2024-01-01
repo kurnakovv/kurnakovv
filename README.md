@@ -159,7 +159,7 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
    <img src="https://corp.vkcdn.ru/media/projects/logos/logo_vk_video.png" width="50" height="50"/>
   </a>
   <a href="https://www.nuget.org/profiles/Kurnakovv">
-   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nuget_logo_icon_170908.png" width="120"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/1024px-NuGet_project_logo.svg.png" width="50" height="50" />
   </a>
   <a href="https://stackoverflow.com/users/22817151/kurnakovv">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" width="50" height="50"/>
