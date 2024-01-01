@@ -161,5 +161,10 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <a href="https://www.nuget.org/profiles/Kurnakovv">
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nuget_logo_icon_170908.png" width="120"/>
   </a>
+  <a href="https://stackoverflow.com/users/22817151/kurnakovv">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" width="50" height="50"/>
+  </a>
+
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=158&section=footer"/>
