@@ -64,6 +64,9 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
  <a href="https://en.wikipedia.org/wiki/TypeScript">
   <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="50" height="50"/>
  </a>
+ <a href="https://ru.wikipedia.org/wiki/React">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="50"/>
+ </a>
  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" width="50" height="50"/>
  </a>
