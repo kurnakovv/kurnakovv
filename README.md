@@ -43,6 +43,9 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <a href="https://en.wikipedia.org/wiki/PostgreSQL">
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/RabbitMQ">
+   <img src="https://a.storyblok.com/f/153547/2400x2540/24777f0edc/rabbitmq-logo_best-for-rabbitmq-blog.png" width="50" height="50"/>
+  </a>
 </div>
 
 <br>
