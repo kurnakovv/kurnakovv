@@ -145,7 +145,7 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
 ### I am reading:
 
 <div>
-	<code></code>
+	<code><a href="#CSInDepth" ><img src="https://images.manning.com/book/9/319e4bc-7503-43cd-a4a2-f53fa410ebc0/Skeet-4ED-HI.png" title="C# in Depth" width="65" /></a></code>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
