@@ -142,7 +142,7 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
 
 <br>
 
-### I am reading:
+### I read:
 
 <div>
 	<code><a href="#CSInDepth" ><img src="https://images.manning.com/book/9/319e4bc-7503-43cd-a4a2-f53fa410ebc0/Skeet-4ED-HI.png" title="C# in Depth" width="65" /></a></code>
