@@ -22,6 +22,9 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <a href="https://en.wikipedia.org/wiki/.NET_Framework">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="50" height="50"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/.NET_Framework">
+   <img src="https://avatars.githubusercontent.com/u/9011267?v=4" width="50" height="50"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Core">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="50" height="50"/>
   </a>
