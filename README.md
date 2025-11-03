@@ -178,6 +178,9 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <a href="https://stackoverflow.com/users/22817151/kurnakovv">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" width="50" height="50"/>
   </a>
+  <a href="https://gist.github.com/kurnakovv">
+   <img src="https://github.com/user-attachments/assets/9a6c124b-6b00-4e30-add7-0ae872b4c4b6" width="50" height="50"/>
+  </a>
 
   
 
