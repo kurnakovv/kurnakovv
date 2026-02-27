@@ -19,7 +19,7 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
 <div>
  <h4>Backend</h4>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/165px-C_Sharp_Logo_2023.svg.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/a44f7a2d-4d5c-4de7-a077-3feca164d0dc" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Framework">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="50" height="50"/>
