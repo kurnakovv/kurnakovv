@@ -70,13 +70,13 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="50" height="50"/>
  </a>
  <a href="https://ru.wikipedia.org/wiki/React">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/9d21d4e0-a61f-4ca3-af2f-939e79d31f86" width="50" height="50"/>
  </a>
  <a href="https://mui.com/">
   <img src="https://mui.com/static/logo.png" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/4e351f39-2984-40c9-9176-4de1207beb48" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Blazor">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="50" height="50"/>
@@ -100,10 +100,10 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Git">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/df36cbd7-1048-4b79-8968-ae4c63ecf153" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/781px-Adobe_Photoshop_CS6_icon.svg.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/5e94136b-c11b-4079-a1ac-b0ad32872c3a" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Sublime_Text">
   <img src="https://i.imgur.com/AGmyyOX.png" width="50" height="50"/>
