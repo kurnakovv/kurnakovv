@@ -133,7 +133,7 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
 ### I have read: 
 
 <div>
-	<code><a href="#GrokkingAlgorithms"><img src="https://img-gorod.ru/25/763/2576389_detail.jpg" title="Grokking algorithms" width="65" /></a></code>
+	<code><a href="#GrokkingAlgorithms"><img src="https://github.com/user-attachments/assets/b49a5433-8fda-413a-9179-3f0508d0b7d7" title="Grokking algorithms" width="65" /></a></code>
 	<code><a href="#CS_4_0_TheCompleteReference"><img src="https://cdn1.ozone.ru/multimedia/1005672732.jpg" title="CSharp complete reference" width="65" /></a></code>
 	<code><a href="#CS_ForDummies"><img src="https://cdn1.ozone.ru/multimedia/1036154459.jpg" title="CSharap for Dummies " width="65" /></a></code>
 	<code><a href="#CodeComplete" ><img src="https://sun9-17.userapi.com/impf/c836438/v836438285/2495a/Z-NZzaveeOw.jpg?size=438x620&quality=96&sign=17ce6f53cc9641c6633357228f1514b7&type=album" title="Code complete" width="65" /></a></code>
@@ -156,8 +156,8 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📫 How to reach me:
- 
- <a href="https://vk.com/kurnakovv">
+
+  <a href="https://vk.com/kurnakovv">
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="50" height="50"/>
   </a>
   <a href="https://telegram.me/kurnakovv">
@@ -173,7 +173,7 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
    <img src="https://corp.vkcdn.ru/media/projects/logos/logo_vk_video.png" width="50" height="50"/>
   </a>
   <a href="https://www.nuget.org/profiles/Kurnakovv">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/1024px-NuGet_project_logo.svg.png" width="50" height="50" />
+   <img src="https://github.com/user-attachments/assets/f596e676-ebdb-481b-b4ea-697b0b4a1b89" width="50" height="50" />
   </a>
   <a href="https://stackoverflow.com/users/22817151/kurnakovv">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" width="50" height="50"/>
