@@ -22,34 +22,34 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
    <img src="https://github.com/user-attachments/assets/a44f7a2d-4d5c-4de7-a077-3feca164d0dc" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Framework">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/6beccfa9-6674-4566-8276-1c26fc082678" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Framework">
    <img src="https://avatars.githubusercontent.com/u/9011267?v=4" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET_Core">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/2c1f409c-2c26-4db1-96c3-42b0cb95d611" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/SQL">
-   <img src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" width="40" height="50"/>
+   <img src="https://github.com/user-attachments/assets/0136e1ee-a268-48a3-8986-7d5dec24813c" width="40" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">
-   <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/1f01158b-2926-43bb-985a-fbf420d95f10" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/ASP.NET">
-   <img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/c6d04887-835f-41aa-b1fa-4ab44d54edef" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/ASP.NET_Core">
-   <img src="https://codeopinion.com/wp-content/uploads/2017/06/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/f67b97dd-de87-459f-82af-2976ca460990" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Docker_(software)">
-   <img src="https://isd-soft.com/wp-content/uploads/2016/12/docker_logo.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/d996e9c3-f84c-4b53-8502-55bb5b6eb6d7" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/PostgreSQL">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/d374c5b8-0c5a-4ff6-8b1c-fde889d2488f" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/RabbitMQ">
-   <img src="https://a.storyblok.com/f/153547/2400x2540/24777f0edc/rabbitmq-logo_best-for-rabbitmq-blog.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/a67b090b-0807-4338-a71f-d5b787f4d4b8" width="50" height="50"/>
   </a>
 </div>
 
