@@ -67,19 +67,19 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/TypeScript">
-  <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/11ee5d87-b961-401c-97d0-1e5e74712e61" width="50" height="50"/>
  </a>
  <a href="https://ru.wikipedia.org/wiki/React">
   <img src="https://github.com/user-attachments/assets/9d21d4e0-a61f-4ca3-af2f-939e79d31f86" width="50" height="50"/>
  </a>
  <a href="https://mui.com/">
-  <img src="https://mui.com/static/logo.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/8cfac802-0c41-437f-949a-b9ccea22613e" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
   <img src="https://github.com/user-attachments/assets/4e351f39-2984-40c9-9176-4de1207beb48" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Blazor">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/2f454d57-60ed-4cb6-a447-76c38b5cc02e" width="50" height="50"/>
  </a>
 </div>
 
