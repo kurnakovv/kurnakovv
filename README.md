@@ -88,16 +88,16 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
 <div>
  <h4>Tools</h4>
  <a href="https://visualstudio.microsoft.com/vs/">
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/c9f90c2e-ec0d-4d1c-8211-06294c4c7a5a" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/b6ffcab7-beeb-4f93-9a29-51e1f4711e07" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Windows_Terminal">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1280px-Windows_Terminal_logo.svg.png" width="64" height="48"/>
+  <img src="https://github.com/user-attachments/assets/2f83962f-6854-486a-8ce5-dd2fcef19cc7" width="64" height="48"/>
  </a>
  <a href="https://www.vim.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/8bce9a7a-1e5e-499e-b52d-b42816d1d258" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Git">
   <img src="https://github.com/user-attachments/assets/df36cbd7-1048-4b79-8968-ae4c63ecf153" width="50" height="50"/>
@@ -106,10 +106,10 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <img src="https://github.com/user-attachments/assets/5e94136b-c11b-4079-a1ac-b0ad32872c3a" width="50" height="50"/>
  </a>
  <a href="https://en.wikipedia.org/wiki/Sublime_Text">
-  <img src="https://i.imgur.com/AGmyyOX.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/82de1ef0-463e-4923-ae5e-43a05db32cb1" width="50" height="50"/>
  </a>
  <a href="https://www.postman.com/company/about-postman">
-  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/f65dd50e-b369-4c06-bb7f-65648840d65e" width="50" height="50"/>
  </a>
  <a href="https://singularity-app.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Singularity-App_logo.png" width="50" height="50"/>
