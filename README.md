@@ -112,7 +112,7 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
   <img src="https://github.com/user-attachments/assets/f65dd50e-b369-4c06-bb7f-65648840d65e" width="50" height="50"/>
  </a>
  <a href="https://singularity-app.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Singularity-App_logo.png" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/ab1b186b-0cf2-465b-86d1-64e98da81973" width="50" height="50"/>
  </a>
 </div>
 
