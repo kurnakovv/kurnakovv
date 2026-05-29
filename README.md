@@ -155,28 +155,28 @@ I'm a middle backend developer, work in company tiburon-research <a href="https:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-### 📫 How to reach me:
+### 📫 Contacts:
 
   <a href="https://vk.com/kurnakovv">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/ce08745a-9f65-4e4a-8d2c-562ce473e000" width="50" height="50"/>
   </a>
   <a href="https://telegram.me/kurnakovv">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/7c397983-9f10-4f55-ab14-58fee6319f14" width="50" height="50"/>
   </a>
   <a href="https://youtube.com/@kurnakovv">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="68" height="47"/>
+   <img src="https://github.com/user-attachments/assets/83ab0c90-8a98-40f2-94df-ffbd6351f12f" width="68" height="47"/>
   </a>
   <a href="https://rutube.ru/channel/31587053/">
-   <img src="https://play-lh.googleusercontent.com/z_wh9O47xTSR89Goj6_k5IA6PesoilrrspjRRZsmCQBEEAvZcWCe1bG1gFmXc-DPxok=w240-h480-rw" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/c8aac968-4a27-4175-9c7c-fbdcaf43167d" width="50" height="50"/>
   </a>
   <a href="https://vk.com/video/@kurnakovv">
-   <img src="https://corp.vkcdn.ru/media/projects/logos/logo_vk_video.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/1d7df009-1282-4ade-837f-45e72d483138" width="50" height="50"/>
   </a>
   <a href="https://www.nuget.org/profiles/Kurnakovv">
    <img src="https://github.com/user-attachments/assets/f596e676-ebdb-481b-b4ea-697b0b4a1b89" width="50" height="50" />
   </a>
   <a href="https://stackoverflow.com/users/22817151/kurnakovv">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" width="50" height="50"/>
+   <img src="https://github.com/user-attachments/assets/3095d96f-35e1-45db-83e3-1374b3168020" width="50" height="50"/>
   </a>
   <a href="https://gist.github.com/kurnakovv">
    <img src="https://github.com/user-attachments/assets/9a6c124b-6b00-4e30-add7-0ae872b4c4b6" width="50" height="50"/>
